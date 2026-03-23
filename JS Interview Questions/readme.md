@@ -1,8 +1,16 @@
-# Debouncing
+# JS Interview Questions
 
-Example - Google Search
-Its a technique used to ensure that a function is not called too frequently
+## Description
 
-Use Case:
+This folder contains JavaScript/React practice snippets for interview prep.
 
-- Cases where events are triggered rapidly (most commonly on keystrokes)
+## Quick Links
+
+| Folder | Path | Description |
+|---|---|---|
+| debouncing | [debouncing/](./debouncing/) | Debouncing examples and readme |
+
+## Recommendations
+
+- Keep code sample headings and comments in sync with file names (e.g., `debounce.js`).
+- Add short comments inside each code sample so you can revisit intent quickly.
