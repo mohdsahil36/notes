@@ -1,8 +1,4 @@
-# Debouncing
-
-## Description
-
-This folder contains debouncing-focused examples for interview prep.
+# Debouncing and Throttlinga
 
 ## Quick Links
 

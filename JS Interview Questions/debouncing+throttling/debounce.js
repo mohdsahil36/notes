@@ -4,6 +4,8 @@
 // If the user types again before the delay finishes, the previous timer is canceled and a new one starts.
 // So only the last input after the delay triggers the API call.
 
+// simple bole to hume seach sirf tab karna hai jab user ne type karna band kar diya ho, agar use type kara and then continue kara to fir naye wale input ke saath search karege , jaise hi vo rukega then us time tak jitna input hume mil chuka hai uske according hum apna function run karege
+
 function search(query) {
   console.log("Searching now for" + query);
 }
