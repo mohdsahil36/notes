@@ -9,7 +9,7 @@ It is organized topic-wise and pattern-wise for easy revision and reference.
 
 | Name | Path | Description |
 |---|---|---|
-| JS Interview Questions | [README](./JS%20Interview%20Questions/readme.md) | Subfolder notes and navigation |
+| JS Interview Questions | [README](./JS Interview Questions/readme.md) | Subfolder notes and navigation |
 
 ## Folder Index
 
@@ -19,7 +19,7 @@ Below is a per-folder folder table for direct access.
 
 | Folder | Path | Description |
 |---|---|---|
-| debouncing | [debouncing/README](./JS%20Interview%20Questions/debouncing/readme.md) | Debouncing implementation examples |
+| debouncing+throttling | [debouncing+throttling/README](./JS Interview Questions/debouncing+throttling/readme.md) | Debouncing and Throttling implementation examples |
 
 ## How to use this repo
 
