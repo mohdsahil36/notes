@@ -8,7 +8,7 @@ This folder contains JavaScript/React practice snippets for interview prep.
 
 | Folder | Path | Description |
 |---|---|---|
-| debouncing | [debouncing/](./debouncing/) | Debouncing examples and readme |
+| debouncing+throttling | [debouncing+throttling/](./debouncing+throttling/) | Debouncing and Throttling examples and readme |
 
 ## Recommendations
 
